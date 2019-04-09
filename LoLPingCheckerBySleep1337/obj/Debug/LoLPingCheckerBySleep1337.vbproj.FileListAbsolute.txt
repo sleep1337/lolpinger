@@ -1,0 +1,17 @@
+C:\Users\Steffen\source\repos\LoLPingCheckerBySleep1337\LoLPingCheckerBySleep1337\obj\Debug\LoLPingCheckerBySleep1337.vbprojAssemblyReference.cache
+C:\Users\Steffen\source\repos\LoLPingCheckerBySleep1337\LoLPingCheckerBySleep1337\obj\Debug\LoLPingCheckerBySleep1337.Form1.resources
+C:\Users\Steffen\source\repos\LoLPingCheckerBySleep1337\LoLPingCheckerBySleep1337\obj\Debug\LoLPingCheckerBySleep1337.Resources.resources
+C:\Users\Steffen\source\repos\LoLPingCheckerBySleep1337\LoLPingCheckerBySleep1337\obj\Debug\LoLPingCheckerBySleep1337.vbproj.GenerateResource.cache
+C:\Users\Steffen\source\repos\LoLPingCheckerBySleep1337\LoLPingCheckerBySleep1337\obj\Debug\LoLPingCheckerBySleep1337.vbproj.CoreCompileInputs.cache
+C:\Users\Steffen\source\repos\LoLPingCheckerBySleep1337\LoLPingCheckerBySleep1337\bin\Debug\LoLPinger.exe.config
+C:\Users\Steffen\source\repos\LoLPingCheckerBySleep1337\LoLPingCheckerBySleep1337\bin\Debug\LoLPinger.exe.manifest
+C:\Users\Steffen\source\repos\LoLPingCheckerBySleep1337\LoLPingCheckerBySleep1337\bin\Debug\LoLPinger.application
+C:\Users\Steffen\source\repos\LoLPingCheckerBySleep1337\LoLPingCheckerBySleep1337\bin\Debug\LoLPinger.exe
+C:\Users\Steffen\source\repos\LoLPingCheckerBySleep1337\LoLPingCheckerBySleep1337\bin\Debug\LoLPinger.pdb
+C:\Users\Steffen\source\repos\LoLPingCheckerBySleep1337\LoLPingCheckerBySleep1337\bin\Debug\LoLPinger.xml
+C:\Users\Steffen\source\repos\LoLPingCheckerBySleep1337\LoLPingCheckerBySleep1337\obj\Debug\LoLPinger.TrustInfo.xml
+C:\Users\Steffen\source\repos\LoLPingCheckerBySleep1337\LoLPingCheckerBySleep1337\obj\Debug\LoLPinger.exe.manifest
+C:\Users\Steffen\source\repos\LoLPingCheckerBySleep1337\LoLPingCheckerBySleep1337\obj\Debug\LoLPinger.application
+C:\Users\Steffen\source\repos\LoLPingCheckerBySleep1337\LoLPingCheckerBySleep1337\obj\Debug\LoLPinger.exe
+C:\Users\Steffen\source\repos\LoLPingCheckerBySleep1337\LoLPingCheckerBySleep1337\obj\Debug\LoLPinger.xml
+C:\Users\Steffen\source\repos\LoLPingCheckerBySleep1337\LoLPingCheckerBySleep1337\obj\Debug\LoLPinger.pdb
